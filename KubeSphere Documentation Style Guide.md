@@ -1,5 +1,6 @@
 # KubeSphere Documentation Style Guide
 
+isxx
 This style guide provides a set of editorial guidelines for those who are writing documentation for KubeSphere.
 
 ## **Basic Rules**
